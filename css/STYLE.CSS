@@ -9,7 +9,7 @@
 }
 body {
     
-    background-image: url(fondo_tienda.jpg);
+    background-image: url(/image/fondo_tienda.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
